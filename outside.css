@@ -1,5 +1,5 @@
 body{
-    background-color: orange; 
+    background-color: yellow; 
 }
 #outside{
     display: block;
@@ -13,8 +13,8 @@ body{
     margin: auto;
 }
 
-// https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png
 #arrow_1{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png)
     position: relative;
     width: 10%;
     margin:auto;
