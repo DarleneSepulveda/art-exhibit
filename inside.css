@@ -13,10 +13,9 @@ body{
     margin: auto;
     display: block;
     position: relative;
-    width: 100px;
-    height:auto;
 }
 #one{
     bottom: 400px;
     right: 100px;
+    width:10%;
 }
