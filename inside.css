@@ -13,9 +13,10 @@ body{
     margin: auto;
     display: block;
     position: relative;
+    object-fit: contain;
 }
 .images:hover{
-    box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+    box-shadow: rgba(255, 255, 255, 0.8) 0 0 90px 33px;
 }
 #one{
     bottom: 400px;
