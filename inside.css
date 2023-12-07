@@ -16,9 +16,9 @@ body{
 }
 
 #one{
-    bottom: 1000px;
+    bottom: 10px;
     left: 100px;
-    width:20%;
+    width:15%;
 }
 #one:hover{
     box-shadow: rgba(255, 255, 255, 0.8) 0 0 70px 33px;
