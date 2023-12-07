@@ -17,6 +17,7 @@ body{
     margin: auto;
     display: block;
     top: 100px;
+    text-align: center;
 }
 #arrow_1:hover{
     opacity: .4;
