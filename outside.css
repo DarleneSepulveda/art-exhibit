@@ -1,11 +1,11 @@
 body{
-    background-color: orange; 
+    background-color: yellow; 
 }
 #outside{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 79.5%;
+    width: 79.6%;
     margin: auto;
 }
 /*
@@ -21,7 +21,7 @@ body{
     margin: auto;
     height: 100px;
     width: 500px;
-    display: inline-block;
+    display: block;
 }
 #arrow_1:hover{
     opacity: .4;
