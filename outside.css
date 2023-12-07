@@ -1,14 +1,13 @@
 body{
-    background-color: yellowgreen;
+    background-color: greenyellow;
 }
 #outside{
-    width: 80%;
-    margin-right: auto;
-    margin-left:auto;
+    width: 75%;
+    margin: auto;
 }
 #arrow_1{
     position: relative;
-    top: -100px;
+    width: 30%;
 }
 #arrow_1:hover{
     opacity: 0;
