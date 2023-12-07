@@ -19,6 +19,8 @@ body{
     text-align: center;
     position: relative;
     height: 50pt;
+    position: relative;
+    bottom: 100px;
 }
 #arrow_1:hover{
     opacity: .5;
