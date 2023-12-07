@@ -14,12 +14,12 @@
     margin-right: auto;
     margin: auto;
     display: block;
-    text-align: center;
     position: relative;
     height: 50pt;
     position: relative;
-    bottom: 100px;
+    bottom: 200px;
     right: 619px;
+    left: 619px;
 }
 #arrow_1:hover{
     opacity: .5;
