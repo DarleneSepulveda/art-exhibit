@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 #gallery{
     display: block;
     margin-left: auto;
