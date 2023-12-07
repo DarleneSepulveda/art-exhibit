@@ -12,14 +12,14 @@ body{
     margin-right: auto;
     margin: auto;
     display: block;
+    position: relative;
 
 }
 
 #one{
-    position: relative;
     bottom: 1000pt;
     left: 1000pt;
-    width:15%;
+    width:100pt;
 }
 #one:hover{
     box-shadow: rgba(255, 255, 255, 0.8) 0 0 30px 33px;
