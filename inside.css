@@ -17,8 +17,8 @@ body{
 
 #one{
     position: relative;
-    bottom: 600pt;
-    left: 800pt;
+    bottom: 1000pt;
+    left: 1000pt;
     width:15%;
 }
 #one:hover{
