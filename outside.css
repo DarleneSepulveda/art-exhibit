@@ -18,10 +18,10 @@
     height: 70pt;
     bottom: 100px;
     left: 720px;
-    margin-top: -20px;
-    margin-bottom: -80px;
-    margin-right: -20px;
-    margin-left: -80px;
+    margin-top: -80px;
+    margin-bottom: -20px;
+    margin-right: -80px;
+    margin-left: -20px;
 }
 #arrow_1:hover{
     opacity: .5;
