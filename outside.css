@@ -1,9 +1,12 @@
 body{
-    background-color: blue;
+    background-color: red;
 }
 #outside{
-    width: 1800px;
-    height: 700px;
+    width: 1700px;
+    height: 600px;
     margin-right: auto;
     margin-left:auto;
+}
+#arrow:hover{
+    opacity: 0;
 }
