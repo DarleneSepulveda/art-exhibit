@@ -1,9 +1,11 @@
 body{
-    background-color: blue; 
+    background-color: violet; 
 }
 #outside{
-    position: relative;
-    width: 79.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79.3%;
     margin: auto;
 }
 #outside_box{
