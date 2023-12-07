@@ -5,13 +5,15 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 79.7%;
+    width: 79.8%;
     margin: auto;
+    position: absolute;
 }
 
 #arrow_1{
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png");
     background-color: red;
+    background-size: contain;
     margin-left: auto;
     margin-right: auto;
     margin: auto;
@@ -20,7 +22,8 @@ body{
     text-align: center;
     width: 100px;
     height: 100px;
+    position: relative;
 }
 #arrow_1:hover{
-    opacity: .4;
+    opacity: .5;
 }
