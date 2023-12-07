@@ -17,6 +17,7 @@ body{
     background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png);
     margin:auto;
     position: relative;
+    width: 100%;
 }
 #arrow_1:hover{
     opacity: 0;
