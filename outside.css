@@ -18,6 +18,8 @@ body{
     display: block;
     top: 100px;
     text-align: center;
+    width: 100px;
+    height: 100px;
 }
 #arrow_1:hover{
     opacity: .4;
