@@ -12,10 +12,11 @@ body{
     margin-right: auto;
     margin: auto;
     display: block;
-    position: relative;
+
 }
 
 #one{
+    position: relative;
     bottom: 10px;
     left: 100px;
     width:15%;
