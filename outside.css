@@ -1,5 +1,5 @@
 body{
-    background-color: yellow; 
+    background-color: green; 
 }
 #outside{
     display: block;
@@ -8,12 +8,7 @@ body{
     width: 79.6%;
     margin: auto;
 }
-/*
-#outside_box{
-    position: relative;
-    margin: auto;
-}
-*/
+
 #arrow_1{
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png");
     margin-left: auto;
