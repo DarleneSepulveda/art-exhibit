@@ -17,11 +17,11 @@
     position: relative;
     height: 70pt;
     bottom: 90px;
-    left: 1000px;
+    left: 700px;
     margin-top: -110px;
     margin-bottom: -60px;
     margin-right: -10px;
-    margin-left: -1000px;
+    margin-left: -900px;
 }
 #arrow_1:hover{
     opacity: .5;
