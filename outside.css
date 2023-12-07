@@ -1,5 +1,5 @@
 body{
-    background-color: green; 
+    background-color: blue; 
 }
 #outside{
     display: block;
@@ -14,10 +14,12 @@ body{
 }
 
 #arrow_1{
-    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png);
     margin:auto;
     position: relative;
-    width: 100%;
+    height: 100px;
+    weight: 100px;
+    display:inline-block;
 }
 #arrow_1:hover{
     opacity: 0;
