@@ -1,6 +1,9 @@
+body{
+    background-color: blue;
+}
 #outside{
-    width: 1980px;
-    height: 800px;
+    width: 1800px;
+    height: 700px;
     margin-right: auto;
     margin-left:auto;
 }
