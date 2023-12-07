@@ -18,8 +18,8 @@
     height: 70pt;
     bottom: 100px;
     left: 700px;
-    margin-bottom: -200px;
-    margin-right:-600px;
+    margin-bottom: -1000px;
+    margin-right:-1000px;
 }
 #arrow_1:hover{
     opacity: .5;
