@@ -8,9 +8,6 @@ body{
     width: 80.4%;
 }
 .images{
-    margin-left: auto;
-    margin-right: auto;
-    margin: auto;
     display: block;
     position: relative;
 
@@ -22,7 +19,7 @@ body{
     width:100pt;
 }
 #one:hover{
-    box-shadow: rgba(255, 255, 255, 0.8) 0 0 30px 33px;
+    box-shadow: rgba(255, 255, 255, 0.8) 0 0 10px 13px;
 }
 #two{
     width:15%;
