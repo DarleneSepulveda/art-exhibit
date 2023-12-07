@@ -1,11 +1,11 @@
 body{
-    background-color: red; 
+    background-color: orange; 
 }
 #outside{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 79.3%;
+    width: 79.45%;
     margin: auto;
 }
 #outside_box{
@@ -13,6 +13,7 @@ body{
     margin: auto;
 }
 
+// https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Feather-arrows-arrow-up.svg/2048px-Feather-arrows-arrow-up.svg.png
 #arrow_1{
     position: relative;
     width: 10%;
