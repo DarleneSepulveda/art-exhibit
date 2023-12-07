@@ -20,6 +20,7 @@
     bottom: 90px;
     left: 660px;
     margin-bottom: -100px;
+    margin-left: -600px;
 }
 #arrow_1:hover{
     opacity: .5;
