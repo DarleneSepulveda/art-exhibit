@@ -17,8 +17,8 @@ body{
 }
 
 #one{
-    bottom: 400px;
-    right: 100px;
+    bottom: 1000px;
+    left: 100px;
     width:20%;
 }
 #one:hover{
