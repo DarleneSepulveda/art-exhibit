@@ -16,12 +16,12 @@
     display: block;
     position: relative;
     height: 70pt;
-    bottom: 110px;
+    bottom: 100px;
     left: 720px;
-    margin-top: -90px;
-    margin-bottom: -30px;
-    margin-right: -300px;
-    margin-left: -20px;
+    margin-top: -95px;
+    margin-bottom: -40px;
+    margin-right: -10px;
+    margin-left: -300px;
 }
 #arrow_1:hover{
     opacity: .5;
