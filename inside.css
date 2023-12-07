@@ -15,11 +15,12 @@ body{
     position: relative;
     object-fit: contain;
 }
-.images:hover{
-    box-shadow: rgba(255, 255, 255, 0.8) 0 0 90px 33px;
-}
+
 #one{
     bottom: 400px;
     right: 100px;
     width:20%;
+}
+#one:hover{
+    box-shadow: rgba(255, 255, 255, 0.8) 0 0 90px 33px;
 }
