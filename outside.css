@@ -1,8 +1,9 @@
 body{
-    background-color: greenyellow;
+    background-color: green; 
 }
 #outside{
-    width: 75%;
+    position: relative;
+    width: 79%;
     margin: auto;
 }
 #arrow_1{
@@ -11,7 +12,4 @@ body{
 }
 #arrow_1:hover{
     opacity: 0;
-}
-div{
-    position: relative;
 }
